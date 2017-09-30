@@ -1,0 +1,6 @@
+http://programandoointentandolo.com/2014/05/bucles-y-en-java.html (ejemplos de tipos de bucles for)
+http://dhw.umh.es/alex-bia/teaching/PC/material/hilos_tutorial-java/cap10-2.htm (tutorial java)
+
+https://jarroba.com/multitarea-e-hilos-en-java-con-ejemplos-thread-runnable/ (ejemplo de thread)
+
+https://www.programarya.com/Cursos/Java-Avanzado/Sockets (Sockets)
