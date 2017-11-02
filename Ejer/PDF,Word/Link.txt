@@ -4,3 +4,9 @@ http://dhw.umh.es/alex-bia/teaching/PC/material/hilos_tutorial-java/cap10-2.htm 
 https://jarroba.com/multitarea-e-hilos-en-java-con-ejemplos-thread-runnable/ (ejemplo de thread)
 
 https://www.programarya.com/Cursos/Java-Avanzado/Sockets (Sockets)
+
+http://picarcodigo.blogspot.com.es/2013/03/ejecucion-de-threads-o-hilos-multitarea.html (Un poco sobre hilos)
+
+http://dhw.umh.es/alex-bia/teaching/PC/material/hilos_tutorial-java/cap10-2.htm
+
+http://puntocomnoesunlenguaje.blogspot.com.es/2012/08/el-argumento-args-de-main-en-java.html
